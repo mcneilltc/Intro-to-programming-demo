@@ -1,1 +1,1 @@
-# Intro-to-programmin-demo
+# Intro-to-programming-demo
